@@ -13,3 +13,6 @@ Run this command to install all dependencies
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### `Open the App`
+https://kind-williams-8b94db.netlify.com/
+
